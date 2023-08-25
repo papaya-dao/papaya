@@ -212,7 +212,23 @@ sequenceDiagram
 
 **Hedging and Risk Management**
 
-With liquid stacking derivatives available, it's possible for investors to hedge their positions. For instance, if one anticipates a decrease in rewards, they might take a short position on a liquid stacking derivative.
+With liquid staking derivatives available, it's possible for investors to hedge their positions. For instance, if one anticipates a decrease in rewards, they might take a short position on a liquid staking derivative. Conversely, if an investor expects the rewards to increase, they could take a long position on the derivative, thereby securing potential future gains.
+
+```mermaid
+sequenceDiagram
+    participant I as Investor
+    participant LSD as Liquid Staking Derivative
+
+    Note over I,LSD: Investor anticipates market movement
+
+    alt Anticipates Decrease in Rewards
+        I->>LSD: Takes short position
+        Note over I,LSD: Secures against potential loss
+    else Anticipates Increase in Rewards
+        I->>LSD: Takes long position
+        Note over I,LSD: Secures potential future gains
+    end
+```
 
 **Liquidity Mining**
 
