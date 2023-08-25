@@ -230,6 +230,24 @@ sequenceDiagram
     end
 ```
 
+Suppose an investor has a long position in a certain asset, but they anticipate a potential decrease in its value. To hedge against this risk, they could use their liquid staking rewards to take a short position in a derivative of the same asset.
+
+```mermaid
+sequenceDiagram
+    participant I as Investor
+    participant A as Asset
+    participant D as Derivative
+    participant LS as Liquid Staking Protocol
+
+    I->>A: Takes long position in asset
+    I->>LS: Stakes assets and earns rewards
+    LS->>I: Provides liquid staking rewards
+    I->>D: Uses rewards to take short position in derivative
+    Note over I,D: Hedge against potential loss in asset
+```
+
+This way, if the asset's value decreases, the loss in the long position would be offset by the gain in the short position. Conversely, if the asset's value increases, the gain in the long position would offset the loss in the short position.
+
 **Liquidity Mining**
 
 Protocols can incentivize stakers by offering additional rewards for those who stake and then use their liquid staking tokens in specific DeFi platforms or liquidity pools. This dual reward mechanism (staking rewards + liquidity mining rewards) can attract more capital and ensure a deeper liquidity for the token.
