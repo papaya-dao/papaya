@@ -30,3 +30,6 @@ The essence lies not in the probability of these situations but in our system's 
 ## Papaya’s proposed sBTC FROST+DKG architectural change
 
 With Schnorr signatures, we can usher in a new era of seamless integration between liquid stacking protocols on stacks and the sBTC Peg wallet FROST+DKG architecture. This change enables robust solutions designed to address centralization concerns, thereby ensuring that signing responsibilities are not monopolized by a single entity.
+
+## Conclusion
+The result of our research into trust-less PoX reward management for Liquid Stacking lead us to design Papaya’s bitcoin onboarding system. The system is designed to manage Bitcoin rewards without relying on a central authority by using FROST+DKG while simultaneously participating in sBTC Signing Operations in a way that does not risk the stability of the peg. 
