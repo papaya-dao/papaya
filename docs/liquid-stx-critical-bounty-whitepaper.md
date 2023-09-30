@@ -161,7 +161,7 @@ Users can lend their tokenized staked assets on lending platforms to earn intere
     With the tokenized form of staked assets, individuals and institutions can easily trade or diversify their holdings. If they foresee a potential downturn or risk in one staked asset, they can exchange it for another without waiting for un-staking periods.
     
 
-## 5**.1 Individuals/Traders**
+## 5.1 Individuals/Traders
 
 Individual traders can leverage liquid staking as a means to generate passive income. By delegating their staked assets, they earn staking rewards or DeFi-related fees. Additionally, they can participate in liquidity provision to DeFi protocols and decentralized exchanges, earning trading fees and rewards while maintaining ownership and flexibility. Liquid staking also allows for risk diversification, enabling traders to earn rewards on multiple assets simultaneously without the need for active trading.
 
@@ -181,7 +181,7 @@ graph TB
 		
 ```
 
-## 5**.2 Builders**
+## 5.2 Builders
 
 Developers have the opportunity to innovate in the DeFi space. They can create DeFi projects that offer liquid staking services, generating revenue through staking fees and other financial products. Staking-as-a-service platforms can be established to cater to both individual users and businesses looking to stake assets without the technical know-how. Developers can also build lending platforms that accept liquid staking assets as collateral, allowing users to borrow against their staked tokens while maintaining their positions.
 
@@ -198,7 +198,7 @@ graph TB
     B3 --> C5[Enhanced Liquidity]
 ```
 
-## 5**.3 Institutions**
+## 5.3 Institutions
 
 Institutions can utilize liquid staking to enhance their liquidity management strategies. By staking assets and simultaneously providing liquidity to DeFi markets, they optimize capital allocation and potentially increase portfolio returns. Establishing staking pools for clients or investors allows institutions to pool resources, improving the likelihood of earning rewards and simplifying asset management. Moreover, institutions can offer secure custodial services for staked assets, ensuring safe storage and management for clients, especially those prioritizing security and compliance.
 
