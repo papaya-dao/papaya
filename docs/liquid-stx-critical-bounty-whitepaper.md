@@ -88,7 +88,7 @@ The Yield token design offers flexibility and standardizes a multitude of yield 
 
 # 3. Onboarding Rewards
 
-To ensure the stability of the Stacks Network and the sBTC Peg, the results of our research lead us to recommend that any protocol participating in stacking and signing operations to consider a system similar to [Papaya’s BOSS](). 
+To ensure the stability of the Stacks Network and the sBTC Peg, the results of our research lead us to recommend that any protocol participating in stacking and signing operations to consider a system similar to [Papaya’s BOSS](boss.md). 
 
 # 4. Reward Calculations & Distributions
 
