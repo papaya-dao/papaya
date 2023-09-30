@@ -4,10 +4,10 @@
 
 ### Authors
 
-[Jake Krogman](https://twitter.com/dreadful_dev) 
-[Aakanksha Mahajan](https://twitter.com/dev_supernova) 
-[CiaraMaria Proia](https://twitter.com/themariaverse)
-[Tim Varner](https://github.com/tavarner)
+- [Jake Krogman](https://twitter.com/dreadful_dev) 
+- [Aakanksha Mahajan](https://twitter.com/dev_supernova) 
+- [CiaraMaria Proia](https://twitter.com/themariaverse)
+- [Tim Varner](https://github.com/tavarner)
 
 # Abstract
 
