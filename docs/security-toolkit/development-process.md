@@ -37,7 +37,6 @@ You may have millions of dollars at risk already, or will after launch. As such,
   - Include the feature request + specification.
 2. Write an initial implementation.
   - Get an initial implementation in place.
-  - Follow the [Function Requirements-Effects-Interactions-Protocol Invariants (FREI-PI) pattern](https://www.nascent.xyz/idea/youre-writing-require-statements-wrong) for any functions that are entrypoints for users.
   - Document all functions' intended behavior for public functions and add inline documentation/comments where necessary.
   - While Clarinet allows for `potentially unchecked data`, avoid simply dismissing this message whenever possible. See [New Safety Checks in Clarinet](https://www.hiro.so/blog/new-safety-checks-in-clarinet) for reference.
   - **Every** line of assembly is documented/commented on.
