@@ -77,7 +77,7 @@ You may have millions of dollars at risk already, or will after launch. As such,
 16. Implement audit fixes.
 17. Setup monitoring service.
   - Have an internal tool that monitors important aspects of your system.
-  - 
+  - As of this time there are no third-party libraries available for monitoring and alerts on Stacks, however [Chainhooks](https://github.com/hirosystems/chainhook) can observe upstream events within a contract in Stacks or any Bitcoin events and trigger downstream actions such as alerts, as well as provide observability metrics. 
 18. Prepare/update your [Incident Response Plan](incident-response-plan-template.md).
 19. Deploy the contract(s).
   - Deployment to `testnet` and `mainnet` can be done directly through [Clarinet](https://docs.hiro.so/clarinet/how-to-guides/how-to-deploy-contracts).
